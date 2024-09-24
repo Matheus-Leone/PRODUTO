@@ -22,17 +22,17 @@ Por consequência, um sistema operacional de 64 bits;
 Espaço em disco suficiente para baixar e instalar os componentes da IDE(Não é muito pesado).
 
 
-1. Faça o Download do Eclipse Installer
-2. Inicie o Eclipse Installer 
-3. Selecione o pacote (Linguagem de Programação) para baixar 
-4. Selecione um Local para guardar Downloads
+1. Faça o Download do Eclipse Installer.
+2. Inicie o Eclipse Installer.
+3. Selecione o pacote (Linguagem de Programação) para baixar.
+4. Selecione um Local para guardar Downloads.
 5. E Pronto!
 
 ```
 
 ### 🔧 Instalação
 
-* Explicação de como deve ser utilizado o projeto
+Após abrir o pacote com os 3 Arquivos para o programa executar, entre no Arquivo Main, onde estarão todas as informações de Input do programa, após colocar as informações que você quer, é só rodar e o cálculo tanto de produtos, quanto o de "cadastro de pessoas" será realizado
 
 ## 🛠️ Construído com
 

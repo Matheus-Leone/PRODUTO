@@ -1,4 +1,4 @@
-# Título do projeto
+# Produto
 
 Um parágrafo da descrição do projeto vai aqui
 

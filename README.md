@@ -1,6 +1,6 @@
 # Produto
 
-Esta atividade é requisito da Avaliação Continauada 1
+Esta atividade é requisito da Avaliação Continuada 1
 
 ## 🚀 Começando
 

@@ -17,7 +17,12 @@ Esta atividade é requisito da Avaliação Continuada 1
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-Dar exemplos
+1. Faça o Download do Eclipse Installer
+2. Inicie o Eclipse Installer 
+3. Selecione o pacote (Linguagem de Programação) para baixar 
+4. Selecione um Local para guardar Downloads
+5. E Pronto!
+
 ```
 
 ### 🔧 Instalação

@@ -23,6 +23,7 @@ Dar exemplos
 Ferramentas utilizadas e bibliotecas
 
 * IDE Eclipse
+* JRE System Library
 
 ## 📌 Versão
 
@@ -31,4 +32,4 @@ Ferramentas utilizadas e bibliotecas
 
 ## ✒️ Autores
 
-* **Nome do desenvolvedor** - *Trabalho Inicial* - Nome da atividade
+* **Matheus Leone** - *Trabalho Inicial* - Produto
